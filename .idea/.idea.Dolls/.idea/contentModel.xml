@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\idimk\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\idimk\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Dolls.-401562079.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Dolls" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="PivotManager.cs" t="Include" />
+        </e>
+        <e p="HSVPicker" t="Include">
+          <e p="Editor" t="Include">
+            <e p="BoxSliderEditor.cs" t="Include" />
+          </e>
+          <e p="Enums" t="Include">
+            <e p="ColorValues.cs" t="Include" />
+          </e>
+          <e p="Events" t="Include">
+            <e p="ColorChangedEvent.cs" t="Include" />
+            <e p="HSVChangedEvent.cs" t="Include" />
+          </e>
+          <e p="Other" t="Include">
+            <e p="ColorPickerTester.cs" t="Include" />
+            <e p="TiltWindow.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="Compute" t="Include">
+                <e p="GenerateSVTexture.compute" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="UI" t="Include">
+            <e p="ColorImage.cs" t="Include" />
+            <e p="ColorLabel.cs" t="Include" />
+            <e p="ColorPicker.cs" t="Include" />
+            <e p="ColorPickerSetup.cs" t="Include" />
+            <e p="ColorPresetManager.cs" t="Include" />
+            <e p="ColorPresets.cs" t="Include" />
+            <e p="ColorSlider.cs" t="Include" />
+            <e p="ColorSliderImage.cs" t="Include" />
+            <e p="HexColorField.cs" t="Include" />
+            <e p="SVBoxSlider.cs" t="Include" />
+          </e>
+          <e p="UtilityScripts" t="Include">
+            <e p="BoxSlider.cs" t="Include" />
+            <e p="HSVUtil.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="NativeShare" t="Include">
+            <e p="Editor" t="Include">
+              <e p="NSPostProcessBuild.cs" t="Include" />
+            </e>
+            <e p="NativeShare.cs" t="Include" />
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="GameController.cs" t="Include" />
+          <e p="GirlController.cs" t="Include" />
+          <e p="InteriorController.cs" t="Include" />
+          <e p="Raycaster.cs" t="Include" />
+          <e p="Replay" t="Include">
+            <e p="Frame.cs" t="Include" />
+            <e p="NamePosRot.cs" t="Include" />
+            <e p="Replay.cs" t="Include" />
+            <e p="ReplayController.cs" t="Include" />
+            <e p="ReplayItem.cs" t="Include" />
+          </e>
+          <e p="UIController.cs" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="DollsDB.xml" t="Include" />
+          </e>
+        </e>
+        <e p="Vuforia" t="Include">
+          <e p="Databases" t="Include">
+            <e p="Emulator" t="Include">
+              <e p="VuforiaEmulator.xml" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="OpenSourceInitializer.cs" t="Include" />
+              <e p="VuforiaEditorScripts.asmdef" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="BoundingBoxRenderer.cs" t="Include" />
+            <e p="DefaultInitializationErrorHandler.cs" t="Include" />
+            <e p="DefaultModelRecoEventHandler.cs" t="Include" />
+            <e p="DefaultTrackableEventHandler.cs" t="Include" />
+            <e p="Internal" t="Include">
+              <e p="RuntimeOpenSourceInitializer.cs" t="Include" />
+            </e>
+            <e p="VuforiaScripts.asmdef" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="BrightTexture.shader" t="Include" />
+            <e p="CameraDiffuse.shader" t="Include" />
+            <e p="ClippingMask.shader" t="Include" />
+            <e p="ColoredLines.shader" t="Include" />
+            <e p="DepthContour.shader" t="Include" />
+            <e p="DepthMask.shader" t="Include" />
+            <e p="OutlineOpaque.shader" t="Include" />
+            <e p="Text3D.shader" t="Include" />
+            <e p="VertexLitWithZ.shader" t="Include" />
+            <e p="VideoBackground.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Dolls.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="VuforiaEditorScripts.csproj" t="IncludeRecursive" />
+      <e p="VuforiaScripts.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
